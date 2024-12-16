@@ -37,7 +37,6 @@ executing==1.2.0
 exrex==0.11.0
 fastjsonschema==2.17.1
 filelock==3.13.1
-fileupload==0.1.5
 Flask==3.0.0
 flask-paginate==2024.4.12
 Flask-SocketIO==5.3.6
